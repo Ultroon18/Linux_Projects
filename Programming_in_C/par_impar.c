@@ -9,6 +9,7 @@ IS ODD OR EVEN
 AUTHOR: RODRIGO PARRA PASCUAL
 */
 
+//Cabeceras 
 #include<stdio.h>
 #include<stdio_ext.h>
 #include<stdbool.h>
